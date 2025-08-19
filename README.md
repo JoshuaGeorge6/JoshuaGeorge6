@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Joshua and I'm a Honours Mathematics major at University of Waterloo</h2>
 
 ###
 
@@ -36,18 +36,10 @@
 ###
 
 <div align="left">
-  <a href="joshua.geogy@gmail.com" target="_blank">
+  <a href="mailto:joshua.geogy@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/joshua-geogy-george-582464243" target="_blank">
+  <a href="https://www.linkedin.com/in/joshua-geogy-george-582464243" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoshuaGeorge6/JoshuaGeorge6/output/snake.svg" alt="Snake animation" />
-
-###
